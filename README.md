@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>ReactJS</li>
-  <li>TailwindCSS</li>
-  <li>Redux</li>
-</ul>
+
+<ul style="display: flex; list-style: none; gap: 10px;" >
+        <li style="color: red;">HTML</li>
+        <li style="color: blue;">CSS</li>
+        <li style="color: yellow;">JavaScript</li>
+        <li style="color: rgb(0, 191, 255);">ReactJS</li>
+        <li style="color: rgb(0, 255, 208);">TailwindCSS</li>
+        <li style="color: rgb(111, 0, 184);">Redux</li>
+      </ul>
 <img align="left" alt="Coding" width="400" src="https://i.ibb.co/0hYxDyW/bg.jpg">
