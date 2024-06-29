@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p> HTML CSS JS React Tailwind Redux</p>
-<img align="left" alt="Coding" width="400" src="https://i.ibb.co/3WwKZqv/bg.jpg">
+<img align="left" alt="Coding" width="400" src="https://i.ibb.co/X4R0Qx5/bg.jpg">
