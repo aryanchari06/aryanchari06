@@ -1,2 +1,2 @@
 
-<img align="left" alt="Coding" width="400" src="https://i.ibb.co/0hYxDyW/bg.jpg">
+<img align="center" alt="Coding"  src="https://i.ibb.co/0hYxDyW/bg.jpg">
