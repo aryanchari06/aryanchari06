@@ -14,5 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>ReactJS TailwindCSS Redux</p>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>ReactJS</li>
+  <li>TailwindCSS</li>
+  <li>Redux</li>
+</ul>
 <img align="left" alt="Coding" width="400" src="https://i.ibb.co/0hYxDyW/bg.jpg">
