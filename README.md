@@ -1,26 +1,2 @@
-## Hi there 👋
 
-<!--
-**aryanchari06/aryanchari06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--
-<div style='display: flex; list-style: none; gap: 10px;'>
-        <p style="color: red;">HTML<p>
-        <p style="color: blue;">CSS</p>
-        <p style="color: yellow;">JavaScript</p>
-        <p style="color: rgb(0, 191, 255);">ReactJS</p>
-        <p style="color: rgb(0, 255, 208);">TailwindCSS</p>
-        <p style="color: rgb(111, 0, 184);">Redux</p>
-    </div>-->
 <img align="left" alt="Coding" width="400" src="https://i.ibb.co/0hYxDyW/bg.jpg">
