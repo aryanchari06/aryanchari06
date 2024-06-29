@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<ul style="display: flex; list-style: none; gap: 10px;" >
-        <li style="color: red;">HTML</li>
-        <li style="color: blue;">CSS</li>
-        <li style="color: yellow;">JavaScript</li>
-        <li style="color: rgb(0, 191, 255);">ReactJS</li>
-        <li style="color: rgb(0, 255, 208);">TailwindCSS</li>
-        <li style="color: rgb(111, 0, 184);">Redux</li>
-      </ul>
+<div style="display: flex; list-style: none; gap: 10px;" >
+        <p style="color: red;">HTML<p>
+        <p style="color: blue;">CSS</p>
+        <p style="color: yellow;">JavaScript</p>
+        <p style="color: rgb(0, 191, 255);">ReactJS</p>
+        <p style="color: rgb(0, 255, 208);">TailwindCSS</p>
+        <p style="color: rgb(111, 0, 184);">Redux</p>
+    </div>
 <img align="left" alt="Coding" width="400" src="https://i.ibb.co/0hYxDyW/bg.jpg">
