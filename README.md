@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-HTML CSS JS React Tailwind Redux
+<h1 style="background-color:white"> HTML CSS JS React Tailwind Redux</h1>
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/3WwKZqv/bg.jpg">
