@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 HTML CSS JS React Tailwind Redux
-<img align="right" alt="Coding" width="400" src="https://blog.facialix.com/wp-content/uploads/2024/01/curso_blogs_modernos_react_redux_tailwind_udemy_gratis.jpg">
+<img align="right" alt="Coding" width="400" src="C:\Users\MUSTIFUND PC 4\OneDrive\Desktop\bg.jpg">
