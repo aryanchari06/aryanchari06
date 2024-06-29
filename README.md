@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p> HTML CSS JS React Tailwind Redux</p>
+<p>Front End Developer</p>
 <img align="left" alt="Coding" width="400" src="https://i.ibb.co/0hYxDyW/bg.jpg">
