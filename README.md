@@ -22,24 +22,11 @@ Building, learning, and sharing one project at a time.
 
 I’m **Aryan Chari**. This profile is where I share my projects and the work I’m exploring.
 
-The repositories below are a selection from my public GitHub projects. Visit a repository for its README, implementation details, and current status.
-
-## Tech
-
-Technologies represented in my public repositories:
+## Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,html" alt="JavaScript, TypeScript, and HTML" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,aws,mongodb,mysql,python,postgres,prisma,graphql,javascript,typescript,html" alt="React, Next.js, Express, AWS, MongoDB, MySQL, Python, PostgreSQL, Prisma, GraphQL, JavaScript, TypeScript, and HTML" />
 </p>
-
-## Featured repositories
-
-| Repository | Language | Explore |
-| --- | --- | --- |
-| **scouting-beavie-frontend** | JavaScript | [View repository](https://github.com/aryanchari06/scouting-beavie-frontend) |
-| **readcycle-frontend** | TypeScript | [View repository](https://github.com/aryanchari06/readcycle-frontend) |
-| **autoresq-next** | TypeScript | [View repository](https://github.com/aryanchari06/autoresq-next) |
-| **my-canban** | JavaScript | [View repository](https://github.com/aryanchari06/my-canban) |
 
 ## GitHub at a glance
 
@@ -66,9 +53,7 @@ Technologies represented in my public repositories:
 ## Connect
 
 - GitHub: [@aryanchari06](https://github.com/aryanchari06)
-- Portfolio: **Add your portfolio URL**
-- LinkedIn: **Add your LinkedIn URL**
-- Email: **Add your preferred contact email**
+- LinkedIn: [**Aryan Chari**](https://www.linkedin.com/in/aryan-chari-7a6402275/)
 
 ---
 
