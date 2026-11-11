@@ -4,7 +4,7 @@
 
 ### Software Developer
 
-**Don't just be another coder — be an engineer.**
+**Don't just be another coder, be an engineer.**
 
 Building useful products, exploring new ideas, and learning by doing.
 
